@@ -10,6 +10,9 @@ void main()
 	{
 		printf("Gread a");
 	}
-
+        void show()
+	{
+		printf("gread");
+	}
 		
 }
