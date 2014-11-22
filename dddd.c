@@ -12,7 +12,11 @@ void main()
 	}
         void show()
 	{
-		printf("gread");
+		printf("gread b");
+	}
+	void ddd()
+	{
+		printf("gread c");
 	}
 		
 }
